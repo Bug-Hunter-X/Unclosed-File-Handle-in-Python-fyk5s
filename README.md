@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: forgetting to close file handles after opening them.  Improper file handling can lead to resource leaks and program instability. The `bug.py` file shows the error, while `bugSolution.py` provides a corrected version.  Review the code and the comments for a better understanding of how to avoid this pitfall.
